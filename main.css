@@ -2,15 +2,17 @@ body {
     background-color: black;
 }
 
+/* #C8A07C */
+
 .phone-base-gold {
     background: linear-gradient(
     45deg,
     #b6906f 5%,
     #b6906f 10%,
     #C8A07C 30%,
-    #C8A07C 50%,
-    #ffe7d3 20%,
-    #b6906f 80%,
+    #ffe7d3 50%,
+    White 20%,
+    #ffe7d3 80%,
     #b6906f 95%
   );
     border-radius: 30px;
